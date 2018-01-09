@@ -1,0 +1,4 @@
+- [React.js资料和教程 by thoughtbit](https://github.com/thoughtbit/it-note/issues/12)
+- [前端文章收藏](https://github.com/thoughtbit/it-note/issues/16)
+- [情书大佬简书 面试题](https://www.jianshu.com/p/d8f8f90f282e)
+- [30分钟掌握ES6/ES2015核心内容（下）](https://segmentfault.com/a/1190000004368132)
